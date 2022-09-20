@@ -1,0 +1,5 @@
+cluster_name = "cluster"
+oidc_url = "oidc.eks.us-east-2.amazonaws.com/id/12324545656757686789"
+oidc_arn = "arn:aws:iam::123456789:oidc-provider/oidc.eks.us-east-2.amazonaws.com/id/12324545656757686789"
+account_id = "123456789"
+region = "us-east-2"
